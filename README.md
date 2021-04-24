@@ -41,7 +41,7 @@ Esse é um app feito com base no framework Next usando o [`create-next-app`](htt
 Para se iniciar o projeto, após instalar as devidas dependências, abra dois terminais no vs code e em um inicie a aplicação com 
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
 ```
 e no outro inicie o serviço da api fake usando o json-server com

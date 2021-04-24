@@ -37,7 +37,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## 💻 Rodar o projeto
 
-Esse é um app feito com base no sistema do Next usando o [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) e usando uma base de dados fake consumida pelo [`json-server`](https://github.com/typicode/json-server). <br>
+Esse é um app feito com base no framework Next usando o [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) e usando uma base de dados fake consumida pelo [`json-server`](https://github.com/typicode/json-server). <br>
 Para se iniciar o projeto, após instalar as devidas dependências, abra dois terminais no vs code e em um inicie a aplicação com 
 ```bash
 npm run dev
